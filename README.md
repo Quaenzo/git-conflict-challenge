@@ -1,2 +1,3 @@
 # git-conflict-challenge
-Conflict testing
+Conflict testing 
+On local
