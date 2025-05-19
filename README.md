@@ -1,2 +1,2 @@
 # git-conflict-challenge
-Conflict
+Conflict 
